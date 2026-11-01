@@ -10,7 +10,7 @@ const app = express();
 
 // Define the port number where our server will listen
 
-const PORT = 3000;
+const PORT = 3014;
 
 // enable static file serving
 app.use(express.static(import.meta.dirname));
